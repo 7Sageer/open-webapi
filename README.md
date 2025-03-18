@@ -1,6 +1,6 @@
-# OpenWebAPI
+# Open WebAPI
 
-这是一个简单的API代理服务，用于转发请求到OpenWebUI API服务。该代理提供了兼容OpenAI API格式的接口，允许客户端使用标准的OpenAI API调用方式与OpenWebUI进行交互。
+这是一个简单的API代理服务，用于转发请求到Open WebUI API服务。该代理提供了兼容OpenAI API格式的接口，允许客户端使用标准的OpenAI API调用方式与Open WebUI进行交互。
 
 ## 功能特性
 
