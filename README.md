@@ -2,6 +2,8 @@
 
 这是一个简单的API代理服务，用于转发请求到Open WebUI API服务。该代理提供了兼容OpenAI API格式的接口，允许客户端使用标准的OpenAI API调用方式与Open WebUI进行交互。
 
+> ⚠️特别提醒：如果您的组织使用Open WebUI且不理解这个项目的用途，请务必不要使用这个项目！你可能会无意间白嫖了您的组织资源！
+
 ## 功能特性
 
 - 支持OpenAI兼容的API路由：`/v1/chat/completions`和`/v1/models`
